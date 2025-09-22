@@ -1,0 +1,5 @@
+backend/ssl/privatekey.pem
+backend/ssl/certificate.pem
+frontend/ssl/privatekey.pem
+frontend/ssl/certificate.pem
+node_modules/
